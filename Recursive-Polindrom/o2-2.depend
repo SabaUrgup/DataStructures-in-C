@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637162425 source:c:\users\dell\desktop\btÜ\bm dersler\2.sınıf\güz\veri yapıları\proje\odev2\o2-2\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<unistd.h>
+
