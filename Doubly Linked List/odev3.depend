@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640961547 source:c:\users\dell\desktop\btÜ\bm dersler\2.sınıf\güz\veri yapıları\proje\odev3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+	<locale.h>
+
+1640961741 c:\users\dell\desktop\btÜ\bm dersler\2.sınıf\güz\veri yapıları\proje\odev3\head.h
+
