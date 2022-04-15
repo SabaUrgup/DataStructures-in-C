@@ -1,3 +1,5 @@
+[Bursa Technical University, Faculty of Engineering and Natural Sciences, Department of Computer Engineering](https://bilgisayar.btu.edu.tr/index.php)
+
 [EN]
 # BLM212 Laboratory Practices
 
@@ -10,6 +12,8 @@ Laboratory studies in C language of Data Structures course of Bursa Technical Un
 </ol>
 
 ***
+
+[Bursa Teknik Üniversitesi, Mühendislik ve Doğa Bilimleri Fakültesi, Bilgisayar Mühendisliği Bölümü ](https://bilgisayar.btu.edu.tr/index.php)
 
 [TR]
 # BLM212 Laboratuvar Çalışmaları
